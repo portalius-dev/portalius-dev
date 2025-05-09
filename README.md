@@ -1,16 +1,18 @@
-## Hi there 👋
+# hello ![wavey](https://raw.githubusercontent.com/FragileDeviations/FragileDeviations/main/wavey.gif)
+i do smth with python
 
-<!--
-**portalius-dev/portalius-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> [!CAUTION]
+> i use windows btw
 
-Here are some ideas to get you started:
+## cool stuff
+> ### [MarkE](https://github.com/portalius-dev/MarkE)
+> 
+> Easy Markdown editor written in Python with PyQT6.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ### [HowITWorks](https://github.com/portalius-dev/HowITWorks)
+>
+> A cmd game, where you need to hack stuff.
+
+> ### [PyDOS](https://github.com/HOROSHIY-DEV/PyDOS)
+>
+> DOS parody written on Python.
