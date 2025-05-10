@@ -4,6 +4,8 @@ i do smth with python
 > [!CAUTION]
 > i use windows btw
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,python,bash,ae)](https://skillicons.dev)
+
 ## cool stuff
 > ### [MarkE](https://github.com/portalius-dev/MarkE)
 > 
